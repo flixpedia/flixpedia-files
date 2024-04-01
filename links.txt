@@ -1,0 +1,6 @@
+TEAM 121
+
+Frontend Deployment Link: https://opensoft-frontend.vercel.app/
+
+Backend Deployment Link: http://4.247.166.168
+
